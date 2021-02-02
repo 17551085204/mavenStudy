@@ -15,6 +15,7 @@ public class myFun {
         System.out.println("hello 123");
         // 下面开始写代码
         System.out.println(add(12,14));
+        System.out.println("hello,maven");
 
 
     }
