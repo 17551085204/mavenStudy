@@ -12,7 +12,7 @@ public class myTest {
 
     @Test
     public void myfun(){
-        System.out.println("hello,world");
+        System.out.println("hello,maven");
     }
 
 
