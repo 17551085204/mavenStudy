@@ -15,5 +15,11 @@ public class myTest {
         System.out.println("hello,maven");
     }
 
+    @Test
+    public void myfun2(){
+
+        System.out.println("myfun2");
+
+    }
 
 }

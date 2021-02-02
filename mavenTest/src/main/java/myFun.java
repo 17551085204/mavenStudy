@@ -14,6 +14,7 @@ public class myFun {
         //System.out.println("姓名是："+name);
         System.out.println("hello 123");
         // 下面开始写代码
+        System.out.println(add(12,14));
 
 
     }
