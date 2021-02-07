@@ -12,6 +12,7 @@
         <option value="$PROJECT_DIR$/mavenTest/pom.xml" />
         <option value="$PROJECT_DIR$/mavenWebAPP/pom.xml" />
         <option value="$PROJECT_DIR$/springBootTest/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-quick/pom.xml" />
       </list>
     </option>
   </component>

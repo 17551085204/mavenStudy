@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/mavenTest/mavenTest.iml" filepath="$PROJECT_DIR$/mavenTest/mavenTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/mavenWebAPP/mavenWebAPP.iml" filepath="$PROJECT_DIR$/mavenWebAPP/mavenWebAPP.iml" />
       <module fileurl="file://$PROJECT_DIR$/springBootTest/springBootTest.iml" filepath="$PROJECT_DIR$/springBootTest/springBootTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-quick/springboot-quick.iml" filepath="$PROJECT_DIR$/springboot-quick/springboot-quick.iml" />
     </modules>
   </component>
 </project>
