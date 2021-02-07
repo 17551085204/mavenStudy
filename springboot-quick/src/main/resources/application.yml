@@ -1,0 +1,4 @@
+# yml文件与Properties文件都可以作为springboot的全局配置文件
+# 如果两者同时存在，那么只有Properties文件配置的生效
+server:
+  port: 8081

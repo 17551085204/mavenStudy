@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="springBootTest" />
+        <module name="springboot-quick" />
         <module name="mavenWebAPP" />
         <module name="mavenTest" />
       </profile>
@@ -16,7 +17,13 @@
       <module name="maven01" target="1.8" />
       <module name="mavenTest" target="1.8" />
       <module name="mavenWebAPP" target="1.8" />
+      <module name="springboot-quick" target="1.8" />
       <module name="springBootTest" target="1.8" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="springboot-quick" options="-parameters" />
+    </option>
   </component>
 </project>
