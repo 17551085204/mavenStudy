@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/mavenStudy.iml" filepath="$PROJECT_DIR$/.idea/mavenStudy.iml" />
       <module fileurl="file://$PROJECT_DIR$/mavenTest/mavenTest.iml" filepath="$PROJECT_DIR$/mavenTest/mavenTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mavenWebAPP/mavenWebAPP.iml" filepath="$PROJECT_DIR$/mavenWebAPP/mavenWebAPP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springBootTest/springBootTest.iml" filepath="$PROJECT_DIR$/springBootTest/springBootTest.iml" />
     </modules>
   </component>
 </project>

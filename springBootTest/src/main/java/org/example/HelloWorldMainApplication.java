@@ -1,0 +1,21 @@
+/*
+@Author:南柯一梦
+@Contact:2890241339@qq.com
+@Date:2021/2/6
+*/
+
+package org.example;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+/*** @SpringBootApplication 来标注一个主程序类，说明这是一个Spring Boot应用 */
+@SpringBootApplication
+public class HelloWorldMainApplication {
+    public static void main(String[] args) { // Spring应用启动起来
+        SpringApplication.run(HelloWorldMainApplication.class, args);
+    }
+}
+
+
+

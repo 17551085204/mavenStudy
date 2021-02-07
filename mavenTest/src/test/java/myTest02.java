@@ -8,6 +8,7 @@
 
 import com.alibaba.druid.pool.DruidDataSourceFactory;
 import org.junit.Test;
+
 public class myTest02 {
 
     @Test
@@ -17,5 +18,18 @@ public class myTest02 {
         System.out.println(druidDataSourceFactory);
 
     }
+
+    @Test
+    public void fun2(){
+//        final Scanner scanner = new Scanner(System.in);
+//        final String name = scanner.next("输入名字");
+//        System.out.println(name);
+        System.out.println("hello");
+
+
+    }
+
+
+
 
 }
